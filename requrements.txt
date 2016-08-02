@@ -1,0 +1,6 @@
+requests
+osmapi
+overpass==0.3.1
+pycountry
+mysql-connector-python-rf
+pytils
